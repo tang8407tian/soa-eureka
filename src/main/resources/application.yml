@@ -2,7 +2,7 @@ server:
   port: 7777
 spring:
   application:
-    name: eureka
+    name: soa-eureka
 eureka:
   instance:
     hostname: localhost
